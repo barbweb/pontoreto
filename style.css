@@ -90,6 +90,7 @@ p {
 .banner-image {
   max-width: 100%;
   object-fit: contain;
+  padding-top: 30px;
   opacity: 0;
   transform: translateY(10px);
   animation: bannerFadeIn 800ms ease-out 200ms forwards;
